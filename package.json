@@ -21,8 +21,8 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "async": "~0.9.0",
-    "lodash": "~3.8.0",
-    "mysql": "~2.6.1",
+    "lodash": "~4.17.21",
+    "mysql": "~2.18.1",
     "waterline-errors": "~0.10.0",
     "waterline-sequel": "git+https://github.com/postmanlabs/waterline-sequel.git#v0.5.1-postman.3",
     "waterline-cursor": "~0.0.5"
